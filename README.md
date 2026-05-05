@@ -1,53 +1,90 @@
 <h1 align="center">Hi 👋, I'm Vashani Verma</h1>
-<h3 align="center">A passionate Artificial Intelligencen & Data Science Engineer from India</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Full Stack Developer | DSA with Java Enthusiast from India 🇮🇳</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vashani-verma&label=Profile%20views&color=0e75b6&style=flat" alt="vashani-verma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vashani-verma" alt="vashani-verma" /></a> </p>
-
-- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **vashaniverma9963@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Languages </h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
- 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vashani-verma&label=Profile%20views&color=0e75b6&style=flat" alt="vashani-verma" />
+</p>
 
-  <br>
-  <h3> Tools <br>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<p align="left">
+  <a href="https://github-profile-trophy.vercel.app/?username=vashani-verma">
+    <img src="https://github-profile-trophy.vercel.app/?username=vashani-verma&theme=algolia&row=1&column=6" alt="trophies"/>
   </a>
 </p>
 
+---
 
+### 👩‍💻 About Me
 
+- 🎓 B.Tech CSE (AI & DS) Student  
+- 🌱 Currently learning **Data Structures & Algorithms with Java**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 💻 Building **Full Stack Web Development Projects**
+- 📚 Practicing **Problem Solving & Competitive Coding**
+- 💬 Ask me about **Java, Python, AI/ML, Web Development**
+- 📫 Reach me at **vashaniverma9963@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code ☕💻**
 
+---
 
+### 🚀 Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🤖 AI / ML Libraries & Tools
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vashani-verma&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashani-verma&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vashani-verma&theme=tokyonight" />
+</p>
