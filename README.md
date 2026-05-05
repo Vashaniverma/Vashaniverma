@@ -62,10 +62,9 @@ Passionate about building intelligent systems, solving problems, and creating im
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="48"/>
 <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="48"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" width="70"/>
+
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
 <img src="https://keras.io/img/logo.png" width="48"/>
 
