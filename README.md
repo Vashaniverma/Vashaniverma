@@ -20,12 +20,11 @@ Passionate about building intelligent systems, solving problems, and creating im
 
 - 🎓 B.Tech CSE (AI & DS) Student  
 - 🌱 Learning **AI/ML, DSA in Java, MERN Stack**
-- 💡 Love solving coding problems & building projects
-- 🤖 Interested in **Machine Learning & Real World AI**
-- 🌐 Building modern web apps using **React + Node.js**
-- 📚 Growing every day through consistency
+- 🤖 Building intelligent projects using ML & DL
+- 💡 Love solving coding problems & creating products
+- 🌐 Exploring Full Stack Development
 - 📫 Reach me: **vashaniverma9963@gmail.com**
-- ⚡ Fun fact: **I debug faster after tea ☕**
+- ⚡ Fun fact: **Tea + Code = Productivity ☕**
 
 ---
 
@@ -49,21 +48,37 @@ Passionate about building intelligent systems, solving problems, and creating im
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🤖 AI / ML
+---
+
+## 🤖 AI / ML Libraries & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="48"/>
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="48"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" width="70"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+<img src="https://keras.io/img/logo.png" width="48"/>
+
 </p>
 
 ---
 
-## 📈 Current Focus
+## 🧠 Currently Exploring
 
 ```text
-✔ Data Structures & Algorithms in Java
-✔ Machine Learning Projects
-✔ Full Stack Development
-✔ Communication Skills
-✔ Internship Preparation
+✔ Machine Learning Algorithms
+✔ Deep Learning (ANN, CNN, RNN)
+✔ NLP Projects
+✔ Computer Vision
+✔ Data Analysis & Visualization
+✔ Full Stack + AI Integration
