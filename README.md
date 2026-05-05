@@ -33,7 +33,7 @@ Passionate about building intelligent systems, solving problems, and creating im
 ### 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
 </p>
 
 ### 🌐 Frontend
